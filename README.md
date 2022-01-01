@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @luistrigo
+- 👀 I’m interested in web development and mobile apps
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on mobile apps
+- 📫 You can contact whit at luistrigoc@gmail.com
